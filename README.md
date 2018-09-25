@@ -3,5 +3,8 @@
 
 1. el primer nivel
 2. el segundo nivel
- * sublista
 3. Continuación
+
+* el primer nivel
+* el segundo nivel
+  * subnivel
